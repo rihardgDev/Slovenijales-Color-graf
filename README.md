@@ -8,3 +8,7 @@ RAM: 64kb
 ROM: 16 kb - 24 kb   
 resolution: 192 x 256  
 colours 9   
+
+  
+Resources:
+http://www.retrocomp.si/cms/2019/01/28/slovenijales-color-graf/   
