@@ -1,5 +1,5 @@
 # Slovenijales-Color-graf
-Color graf is a TRS 80 Colour Computer clone made by Slovenian company Slovenijales Inženiring in colaboration with Galeb from Izola in 1984 
+Color graf is a TRS 80 Colour Computer clone made by Slovenian company Slovenijales Inženiring in colaboration with Galeb (Burian Saša) from Izola in 1984 
 ![Color-graf](https://github.com/rihardgDev/Slovenijales-Color-graf/blob/main/color%20graf.png)  
 
 Based on information in Moj Mikro 5/87 the computer never made it to serial production or was manufactured in very limited numbers.
