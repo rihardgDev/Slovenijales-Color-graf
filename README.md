@@ -17,3 +17,4 @@ It was planned to build 100 machines in 1984
 Resources:
 http://www.retrocomp.si/cms/2019/01/28/slovenijales-color-graf/   
 https://subethasoftware.com/2022/09/26/exploring-1984-os-9-on-a-64k-trs-80-color-computer-part-1/  
+https://www.racunalniski-muzej.si/domaca-proizvodnja-9-del-drugi-jugoslovanski-in-tuji-mikroracunalniki/  
