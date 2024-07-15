@@ -12,7 +12,7 @@ resolution: 192 x 256
 colours 9   
 OS-9 compatible  
 optional use as a terminal (has a built in modem)  
-It was planned to build 100 machines in 1984
+It was planned to build 100 machines in 1984, but only approximaly 15-20 were built (Saša Burian estimate).
   
 Resources:
 http://www.retrocomp.si/cms/2019/01/28/slovenijales-color-graf/   
